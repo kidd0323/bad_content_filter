@@ -1,0 +1,2 @@
+nonface_model.txt 通用特征参数文件，由rand2_train.txt训练而得
+face_model.txt 人脸特征参数文件，由rand2_face_train训练而得
